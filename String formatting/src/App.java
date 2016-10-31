@@ -6,6 +6,7 @@ public class App {
 		info += " ";
 		info += "I am a builder.";
 		
+		System.out.println("hello there");
 		System.out.println(info);
 	}
 
