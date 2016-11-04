@@ -14,6 +14,8 @@ public class App {
 		Animals.sayMyName("This is the correct usage of static method");
 		
 		dog.sayMyType("Lucky");
+		dog.age= 10;
+		
 		cat.sayMyType("micha");
 	}
 
